@@ -1,0 +1,39 @@
+{
+  "id": "120c1e58-e929-4907-9d9c-446e42d3d32e",
+  "name": "Graf vývoje prodejních objednávek",
+  "publisher": "Autocont CZ - Matúš Pieger",
+  "version": "1.0.0.0",
+  "brief": "Graf vývoje prodeje",
+  "description": "Graf vývoje prodeje - statistika prodejních objednávek",
+  "privacyStatement": "http://autocont.cz/",
+  "EULA": "http://autocont.cz/",
+  "help": "http://autocont.cz/",
+  "url": "http://autocont.cz/",
+  "logo": "AC.png",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject3.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "features": ["TranslationFile"]
+}
